@@ -1,0 +1,1 @@
+| **42** | [Deploy Java App on AWS with Terraform, Ansible & Docker](https://github.com/ranjithark02-dotcom/DevOps-Projects/blob/master/DevOps-Project-42) | Terraform, Ansible, Docker, AWS (EC2, ECR, IAM, VPC) | Deploy a Java app as a Docker image to 1 test, 2 acceptance and 2 production servers using ECR, Terraform for infrastructure and Ansible rolling deploys |
